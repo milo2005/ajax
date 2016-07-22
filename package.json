@@ -2,10 +2,13 @@
   "name": "ajx",
   "version": "1.0.0",
   "description": "Proyecto ejemplo de ajax",
-  "scripts": {},
+  "scripts": {
+    "start":"lite-server"
+  },
   "author": "Dario Chamorro",
   "license": "ISC",
   "dependencies": {
     "lite-server": "^2.2.2"
   }
 }
+ 
